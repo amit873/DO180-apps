@@ -1,0 +1,13 @@
+##Add package.json in folder nodejs-helloworld/package.json and add the below code
+
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "app.js",
+  "author": "Red Hat Training",
+  "license": "ASL",
+  "dependencies": {
+    "express": "~4.14.2"
+  }
+}
